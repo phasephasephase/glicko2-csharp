@@ -197,3 +197,6 @@ FakesAssemblies/
 
 # Project.json lock file
 project.lock.json
+
+# JetBrains Rider
+.idea/
